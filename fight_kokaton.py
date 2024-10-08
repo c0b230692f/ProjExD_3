@@ -110,7 +110,6 @@ def main():
     clock = pg.time.Clock()
     tmr = 0
     score = 0  # スコアの初期値
-
     font = pg.font.Font(None, 50)  # スコア表示用のフォント
 
     while True:
